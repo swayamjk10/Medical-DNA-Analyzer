@@ -23,15 +23,15 @@ This tool allows the analysis of DNA sequences to detect common disease-associat
 
 Ensure Python 3.x is installed on your machine. The tool relies on the following Python packages:
 
-**pandas**
+- [pandas](#pandas)
 
-**numpy**
+- [numpy](#numpy)
 
-**matplotlib**
+- [matplotlib](#matplotlib)
 
-**seaborn**
+- [seaborn](#seaborn)
 
-**biopython**
+- [biopython](#biopython)
 
 Install the dependencies by running the following command:
 
