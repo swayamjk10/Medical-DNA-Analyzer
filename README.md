@@ -23,7 +23,7 @@ This tool allows the analysis of DNA sequences to detect common disease-associat
 
 Ensure Python 3.x is installed on your machine. The tool relies on the following Python packages:
 
-pandas
+**pandas
 
 numpy
 
@@ -31,7 +31,7 @@ matplotlib
 
 seaborn
 
-biopython
+biopython**
 
 Install the dependencies by running the following command:
 
@@ -47,6 +47,10 @@ git clone https://github.com/yourusername/Medical-DNA-Analyzer.git
 
 Install dependencies:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
+
+## Usage
+**Initialize the Analyzer**
+Create an instance of the MedicalDNAAnalyzer class by providing a DNA sequence string:
