@@ -38,3 +38,15 @@ Install the dependencies by running the following command:
 ```bash
 pip install -r requirements.txt
  ```
+## Steps to Set Up
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/Medical-DNA-Analyzer.git
+```
+
+Install dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
